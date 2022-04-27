@@ -1,2 +1,2 @@
-# bootstrap-mini-course
-A Bootstrap 5 minikurzusa
+# A Bootstrap 5 minikurzusa
+
